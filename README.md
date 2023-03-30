@@ -16,9 +16,13 @@ Movie Search: Users can search for any movie by clicking the search button and e
 Bingewatch was built using the following technologies:
 
 React: A JavaScript library used for building user interfaces.
+
 Redux: A predictable state container for JavaScript apps.
+
 Firebase: A backend-as-a-service platform used for user authentication, database storage, and hosting.
+
 JavaScript: A programming language used for building web applications.
+
 TMDB API: An API used for getting movie and TV show data.
 
 
