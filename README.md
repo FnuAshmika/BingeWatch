@@ -1,3 +1,32 @@
+# Bingewatch
+Bingewatch is a movie streaming platform built using React, Redux, Firebase, JavaScript, and the TMDB API. Users can sign up and sign in, subscribe to a plan, browse various movie genres, watch trailers of movies on the banner, and search for any movie.
+
+## Features
+User Authentication: Users can sign up and sign in to the platform using their email address and password. 
+
+Subscription Plans: Users can choose from various subscription plans to gain access to movies and TV shows. Plans range from basic to premium, with different prices.
+
+Movie Genres: Users can browse movies by different genres such as action, comedy, drama, horror, and more. T
+
+Movie Trailers: Users can watch trailers of movies on the banner and get a glimpse of the movie before they start watching it.
+
+Movie Search: Users can search for any movie by clicking the search button and entering its name or keywords in the search bar. 
+
+## Technologies
+Bingewatch was built using the following technologies:
+
+React: A JavaScript library used for building user interfaces.
+Redux: A predictable state container for JavaScript apps.
+Firebase: A backend-as-a-service platform used for user authentication, database storage, and hosting.
+JavaScript: A programming language used for building web applications.
+TMDB API: An API used for getting movie and TV show data.
+
+
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
