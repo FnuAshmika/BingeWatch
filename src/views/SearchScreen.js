@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "../axios";
 import "./SearchScreen.css";
-import Nav from "../Nav";
+import Nav from "../components/Nav";
 
 function SearchPage() {
     const [searchTerm, setSearchTerm] = useState("");

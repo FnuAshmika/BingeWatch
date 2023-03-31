@@ -1,7 +1,7 @@
-import axios from "./axios";
+import axios from "../axios";
 import React, { useEffect, useState } from "react";
 import "./Banner.css";
-import requests from "./Requests";
+import requests from "../Requests";
 import YouTube from "react-youtube";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 function Banner() {

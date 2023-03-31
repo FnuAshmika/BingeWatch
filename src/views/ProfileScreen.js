@@ -2,7 +2,7 @@ import { getAuth, signOut } from "firebase/auth";
 import React from "react";
 import { useSelector } from "react-redux";
 import { selectUser } from "../features/userSlice";
-import Nav from "../Nav";
+import Nav from "../components/Nav";
 import PlanScreen from "./PlanScreen";
 import "./ProfileScreen.css";
 
